@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.22.0
+networkx>=2.8.0
+matplotlib>=3.5.0
+python-louvain>=0.16
+community>=1.0.0b1
