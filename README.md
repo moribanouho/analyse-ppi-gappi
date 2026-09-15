@@ -3,9 +3,9 @@
 > **Analyse topologique et validation biologique de communautés de gènes détectées par l'algorithme génétique GA-PPI-Net dans le réseau d'interactions protéine-protéine Homo sapiens.**
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://analyse-ppi-gappi-wm6zbewb7b4p4cpaxvovym.streamlit.app)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
-[![NetworkX](https://img.shields.io/badge/NetworkX-3.x-orange.svg)](https://networkx.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
+
 
 ---
 
@@ -32,7 +32,7 @@ L'algorithme **GA-PPI-Net** a produit 99 communautés de gènes sur le réseau P
 
 | # | Objectif |
 |---|---|
-| 1 | Analyser les graphes des communautés de gènes via **NetworkX** |
+| 1 | Analyser les graphes des communautés de gènes 
 | 2 | Calculer 6 métriques topologiques par communauté |
 | 3 | Calculer les mesures biologiques : AVGSIM, AVGInteraction, Fitness F(S) |
 | 4 | Valider biologiquement 3 communautés avec **DAVID Bioinformatics** |
